@@ -1,8 +1,6 @@
 # ARP_Poisoning
 **ARP Spoofing**
 
-![arp_poisoning](https://github.com/user-attachments/assets/a805ea03-21fb-4bc5-95fa-fae7a0a18543)
-
 **Overview**
 
 This script performs an ARP spoofing attack on a local network. ARP spoofing, also known as ARP cache poisoning, is a technique where an attacker sends fake ARP (Address Resolution Protocol) messages to deceive network devices, making them associate the attacker's machine with the IP address of another device (usually the gateway or another host). This positions the attacker as a "man-in-the-middle," enabling them to intercept, modify, or monitor the network traffic between devices on the network.
